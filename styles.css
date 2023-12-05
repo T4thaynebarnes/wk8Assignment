@@ -1,0 +1,15 @@
+.body{
+    background-image: url(https://www.pbs.org/wgbh/nova/media/original_images/JWST_hero.jpg);
+}
+.heading{
+  text-align: left;
+  font-family: 'Franklin Gothic Medium';
+  color: gold;
+  
+}
+.title{
+    font-family: 'Franklin Gothic Medium';
+    color:gold;
+    text-align: left;
+
+}
